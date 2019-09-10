@@ -1,0 +1,9 @@
+name: brix
+description: 'Basic theme as a sub-theme.'
+type: theme
+core: 8.x
+base theme: bartik
+
+libraries:
+        - brix/global-styling
+        - brix/fonts
